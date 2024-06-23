@@ -1,2 +1,2 @@
 # elena
-Cooking an ERP
+Cooking an ERP as desktop app.
