@@ -1,2 +1,2 @@
 # elena
-Cooking an ERP as desktop app.
+Cooking a modern POS as desktop app.
